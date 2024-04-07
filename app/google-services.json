@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "34245834819",
+    "firebase_url": "https://life-legal-corporation-default-rtdb.firebaseio.com",
+    "project_id": "life-legal-corporation",
+    "storage_bucket": "life-legal-corporation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34245834819:android:6fb8f51a2ffa0bca5c3cf6",
+        "android_client_info": {
+          "package_name": "com.virendrasing.lifelegalcorporation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCaGFgVuE6WaFpblPF2ZwAL3zzLH0hjW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
